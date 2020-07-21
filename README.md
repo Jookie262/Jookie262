@@ -1,6 +1,6 @@
 ## Rookie Developer 👋💻
 
-` 😊Paul Jolou ` | ` Iloilo, Philippines ` |  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRURGLQSwTPzlujxSaVwd3n5756CKdGTkFsA&usqp=CAU" width="15" height="19" alt="STI Logo"> ` STI Alumni `
+` 😊 Paul Jolou ` | ` Iloilo, Philippines ` |  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRURGLQSwTPzlujxSaVwd3n5756CKdGTkFsA&usqp=CAU" width="14" height="14" alt="STI Logo"> ` STI Alumni `
 
 ### Hello Everyone
 
