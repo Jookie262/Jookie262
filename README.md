@@ -1,6 +1,11 @@
 ## Rookie Developer 👋💻
 
-`😊Paul Jolou | Iloilo, Philippines`
+`😊Paul Jolou` | `Iloilo, Philippines` | `STI Alumni`
+
+### Hello Everyone
+
+
+
 
 <!--
 **JolouTheRookie/JolouTheRookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
