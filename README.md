@@ -25,23 +25,23 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and 
 
 ### Technologies that I have been working
 <p>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" width="90" height="90" alt="HTML5">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" width="90" height="90" alt="CSS3">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" width="90" height="90" alt="Javascript">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="90" height="90" alt="Sass">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-plain.svg" width="90" height="90" alt="PHP">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" width="90" height="90" alt="Bootstrap">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/jquery/jquery-plain-wordmark.svg" width="90" height="90" alt="JQuery">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain-wordmark.svg" width="90" height="90" alt="Wordpress">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" width="90" height="90" alt="Adobe Photoshop">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-plain.svg" width="90" height="90" alt="C#">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/git/git-plain-wordmark.svg" width="90" height="90" alt="Git">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" width="90" height="90" alt="Github">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-plain-wordmark.svg" width="90" height="90" alt="Java">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-plain-wordmark.svg" width="90" height="90" alt="Android">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" width="90" height="90" alt="VS Code">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/chrome/chrome-plain.svg" width="90" height="90" alt="Google Chrome">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" width="90" height="90" alt="Windows">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" width="80" height="80" alt="HTML5">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" width="80" height="80" alt="CSS3">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" width="80" height="80" alt="Javascript">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="80" height="80" alt="Sass">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-plain.svg" width="80" height="80" alt="PHP">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" width="80" height="80" alt="Bootstrap">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/jquery/jquery-plain-wordmark.svg" width="80" height="80" alt="JQuery">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain-wordmark.svg" width="80" height="80" alt="Wordpress">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" width="80" height="80" alt="Adobe Photoshop">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-plain.svg" width="80" height="80" alt="C#">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/git/git-plain-wordmark.svg" width="80" height="80" alt="Git">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" width="80" height="80" alt="Github">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-plain-wordmark.svg" width="80" height="80" alt="Java">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-plain-wordmark.svg" width="80" height="80" alt="Android">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" width="80" height="80" alt="VS Code">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/chrome/chrome-plain.svg" width="80" height="80" alt="Google Chrome">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" width="80" height="80" alt="Windows">
 </p>
 
 
