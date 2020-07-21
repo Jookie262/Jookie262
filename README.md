@@ -35,6 +35,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain-wordmark.svg" width="80" height="80" alt="Wordpress">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" width="80" height="80" alt="Adobe Photoshop">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-plain.svg" width="80" height="80" alt="C#">
+<img src="https://img.icons8.com/color/96/000000/firebase.png" width="80" height="80" alt="Firebase"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/git/git-plain-wordmark.svg" width="80" height="80" alt="Git">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" width="80" height="80" alt="Github">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-plain-wordmark.svg" width="80" height="80" alt="Java">
