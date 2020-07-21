@@ -39,6 +39,9 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" width="90" height="90" alt="Github">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-plain-wordmark.svg" width="90" height="90" alt="Java">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-plain-wordmark.svg" width="90" height="90" alt="Android">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" width="90" height="90" alt="VS Code">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/chrome/chrome-plain.svg" width="90" height="90" alt="Google Chrome">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" width="90" height="90" alt="Windows">
 </p>
 
 
