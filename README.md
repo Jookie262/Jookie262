@@ -29,9 +29,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" width="90" height="90" alt="CSS3">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" width="90" height="90" alt="Javascript">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="90" height="90" alt="Sass">
-</p>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-plain-wordmark.svg" width="90" height="90" alt="Java">
-</p>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-plain-wordmark.svg" width="90" height="90" alt="Android">
 </p>
 
