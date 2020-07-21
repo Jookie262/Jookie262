@@ -1,6 +1,6 @@
 ## A Rookie Developer 👋💻
 
-**`😊 Paul Jolou`** | **`✨ Iloilo, Philippines`** | <img src="https://www.sti.edu/images/stilogo3.png" width="14" height="14" alt="STI Logo"> **`STI Alumni`** | **`🖥️ BS in Information Technology (Undegraduate)`**
+**`😊 Paul Jolou`** | **`✨ Iloilo, Philippines`** | <img src="https://www.sti.edu/images/stilogo3.png" width="12" height="12" alt="STI Logo"> **`STI Alumni`** | **`🖥️ BS in Information Technology (Undegraduate)`**
 
 ### Hello Everyone 👋
 
