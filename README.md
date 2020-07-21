@@ -24,10 +24,11 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and 
 </p>
 
 ### Technologies that I have been working
+<p>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" width="90" height="90" alt="HTML5">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" width="90" height="90" alt="CSS3">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="90" height="90" alt="Sass">
-
+</p>
 
 
 
