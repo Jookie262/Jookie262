@@ -1,4 +1,6 @@
-### Hi there 👋
+## Rookie Developer 👋💻
+
+`😊Paul Jolou | Iloilo, Philippines`
 
 <!--
 **JolouTheRookie/JolouTheRookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
