@@ -12,6 +12,13 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and 
 <p> 
     <img src="https://img.shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-E54C21" /> 
     <img src="https://img.shields.io/badge/CSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-44b2fb" /> 
+    <img src="https://img.shields.io/badge/Javascript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F0DC4E" /> 
+    <img src="https://img.shields.io/badge/SCSS-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-CE679A" />
+    <img src="https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-8387BC" />
+    <img src="https://img.shields.io/badge/MSQL-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-E2B784" /> 
+    <img src="https://img.shields.io/badge/Bootstrap-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-553A7D" />
+    <img src="https://img.shields.io/badge/jQuery-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0d0d0d" />
+    <img src="https://img.shields.io/badge/Wordpress-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-35a7f1" />  
 </p>   
 
 
