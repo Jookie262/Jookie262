@@ -24,7 +24,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and 
 </p>
 
 ## Technologies that I have been working
-<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" width="20" height="20" alt="HTML 5">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" width="50" height="50" alt="HTML 5">
 
 
 
