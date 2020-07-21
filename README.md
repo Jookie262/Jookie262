@@ -8,6 +8,11 @@
 Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and explore new 🕹 Technologies. Believes that it is important to continue to grow and learn. I'm always looking for opportunities, like online courses, seminars, conference, and classes, that can help me learn and grow in my everyday life. I enjoy 🙆‍♂️ collaborating and help each other in times of needs. I am currently finding my way to fight against procastination.  
 
 
+##Technical Skills 
+  <img src="https://img.shields.io/badge/HTML-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff7851" /> 
+  <img src="https://img.shields.io/badge/CSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-44b2fb" /> 
+
+
 
 
 
