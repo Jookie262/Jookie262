@@ -1,4 +1,6 @@
-<h2> <b>A Rookie Developer</b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<h2> 
+<b>A Rookie Developer</b> 
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
 **`😊 Paul Jolou`** | **`✨ Iloilo, Philippines`** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRURGLQSwTPzlujxSaVwd3n5756CKdGTkFsA&usqp=CAU" width="15" height="15" alt="STI Logo"> **`STI Alumni`** | **`🖥️ BS in Information Technology (Undegraduate)`**
@@ -34,15 +36,18 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" width="80" height="80" alt="Bootstrap">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/jquery/jquery-plain-wordmark.svg" width="80" height="80" alt="JQuery">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain-wordmark.svg" width="80" height="80" alt="Wordpress">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" width="80" height="80" alt="Adobe Photoshop">
+<img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" width="80" height="80" alt="Adobe Photoshop">
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="80" height="80" alt="Adobe XD">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-plain.svg" width="80" height="80" alt="C#">
 <img src="https://img.icons8.com/color/96/000000/firebase.png" width="80" height="80" alt="Firebase"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/git/git-plain-wordmark.svg" width="80" height="80" alt="Git">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" width="80" height="80" alt="Github">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-plain-wordmark.svg" width="80" height="80" alt="Java">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-plain-wordmark.svg" width="80" height="80" alt="Android">
+<img src="https://i.ya-webdesign.com/images/android-studio-png.png" width="80" height="80" alt="Android Studio">
+<img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18579954981556105328-512.png" width="80" height="80" alt="Notion">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" width="80" height="80" alt="VS Code">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/chrome/chrome-plain.svg" width="80" height="80" alt="Google Chrome">
+<img src="https://cdn.worldvectorlogo.com/logos/chrome.svg" width="80" height="80" alt="Google Chrome">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" width="80" height="80" alt="Windows">
 </p>
 
