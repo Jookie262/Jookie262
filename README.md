@@ -4,7 +4,7 @@
 **`😊 Paul Jolou`** | **`✨ Iloilo, Philippines`** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRURGLQSwTPzlujxSaVwd3n5756CKdGTkFsA&usqp=CAU" width="15" height="15" alt="STI Logo"> **`STI Alumni`** | **`🖥️ BS in Information Technology (Undegraduate)`**
 
 
-### Hello Everyone 👋💻
+### Hello Everyone 👋💻🌈
 
 Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and explore new 🕹 Technologies. Believes that it is important to continue to grow and learn. I'm always looking for opportunities, like online courses, seminars, conference, and classes, that can help me learn and grow in my everyday life. I enjoy 🙆‍♂️ collaborating and help each other in times of needs. I am currently finding my way to fight against procastination.  
 
