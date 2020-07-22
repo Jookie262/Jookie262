@@ -1,4 +1,7 @@
-## **A Rookie Developer** 👋💻
+<h2>
+## **A Rookie Developer** 👋💻 
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h2>
 
 **`😊 Paul Jolou`** | **`✨ Iloilo, Philippines`** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRURGLQSwTPzlujxSaVwd3n5756CKdGTkFsA&usqp=CAU" width="15" height="15" alt="STI Logo"> **`STI Alumni`** | **`🖥️ BS in Information Technology (Undegraduate)`**
 
@@ -23,7 +26,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and 
     <img src="https://img.shields.io/badge/Adobe%20XD-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-FF26BE" />       
 </p>
 
-### Technologies that I have been working
+### **Technologies that I have been working**
 <p>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-plain-wordmark.svg" width="80" height="80" alt="HTML5">
 <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-plain-wordmark.svg" width="80" height="80" alt="CSS3">
