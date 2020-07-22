@@ -1,7 +1,7 @@
 <h2> <b>A Rookie Developer</b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
-**`😊 Paul Jolou`** | **`✨ Iloilo, Philippines`** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRURGLQSwTPzlujxSaVwd3n5756CKdGTkFsA&usqp=CAU" style="margin-top:5px" width="15" height="15" alt="STI Logo"> **`STI Alumni`** | **`🖥️ BS in Information Technology (Undegraduate)`**
+**`😊 Paul Jolou`** | **`✨ Iloilo, Philippines`** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRURGLQSwTPzlujxSaVwd3n5756CKdGTkFsA&usqp=CAU" width="15" height="15" alt="STI Logo"> **`STI Alumni`** | **`🖥️ BS in Information Technology (Undegraduate)`**
 
 
 ### Hello Everyone 👋💻
