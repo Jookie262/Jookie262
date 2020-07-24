@@ -1,4 +1,4 @@
-<h2><b>A Rookie Developer</b>
+<h2><b>A Rookie Developer Here</b>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
@@ -19,7 +19,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and 
     <img src="https://img.shields.io/badge/PHP-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-8387BC" />
     <img src="https://img.shields.io/badge/SQL-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-ffc700" /> 
     <img src="https://img.shields.io/badge/Bootstrap-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-553A7D" />
-    <img src="https://img.shields.io/badge/JQuery-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-31d304" />
+    <img src="https://img.shields.io/badge/jQuery-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-31d304" />
     <img src="https://img.shields.io/badge/Wordpress-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-4423ff" />
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-001E36" />
     <img src="https://img.shields.io/badge/Adobe%20XD-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-FF26BE" />       
