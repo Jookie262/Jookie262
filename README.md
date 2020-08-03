@@ -1,4 +1,4 @@
-<h2><b>A Rookie Developer Here</b>
+<h2><b>Rookie Developer Here</b>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
@@ -7,10 +7,10 @@
 
 ### Hello Everyone 👋💻🦄
 
-Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and explore new 🕹 Technologies. Believes that it is important to continue to grow and learn. I'm always looking for opportunities, like online courses, seminars, conference, and classes, that can help me learn and grow in my everyday life. I enjoy 🙆‍♂️ collaborating and help each other in times of needs. I am currently finding my way to fight against procastination.  
+Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and explore new 🕹 Technologies, believes that it is important to continue to grow and learn. I'm always looking for opportunities, like online courses, seminars, conference, and classes, that can help me learn and grow in my everyday life. I enjoy 🙆‍♂️ collaborating and help each other in times of needs. I am currently finding my way to fight against procastination.  
 
 
-### Technical Skills 
+### Programming Languages Ratings
 <p> 
     <img src="https://img.shields.io/badge/HTML5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-E54C21" /> 
     <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-44b2fb" /> 
@@ -25,7 +25,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and 
     <img src="https://img.shields.io/badge/Adobe%20XD-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-FF26BE" />       
 </p>
 
-### **Technologies that I have been working**
+### **Technologies that I've worked on**
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="80" height="80" alt="HTML5">
 <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="80" height="80" alt="CSS3">
@@ -50,6 +50,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and 
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="80" height="80" alt="Windows">
 </p>
 
+<!-- The Link of this logo is: https://cdn.worldvectorlogo.com -->
 
 <!--
 **JolouTheRookie/JolouTheRookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
