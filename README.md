@@ -21,6 +21,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and 
     <img src="https://img.shields.io/badge/Bootstrap-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-553A7D" />
     <img src="https://img.shields.io/badge/jQuery-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-468EC1" />
     <img src="https://img.shields.io/badge/Wordpress-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-00749A" />
+    <img src="https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-E76F00" />
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-001E36" />
     <img src="https://img.shields.io/badge/Adobe%20XD-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-FF26BE" />       
 </p>
