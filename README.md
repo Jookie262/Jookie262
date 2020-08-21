@@ -32,6 +32,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and 
 <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="80" height="80" alt="Javascript">
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="80" height="80" alt="Sass">
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="80" height="80" alt="PHP">
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="80" height="80" alt="Python">
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="80" height="80" alt="Bootstrap">
 <img src="https://cdn.worldvectorlogo.com/logos/jquery.svg" width="80" height="80" alt="JQuery">
 <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" width="80" height="80" alt="Wordpress">
@@ -50,7 +51,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and 
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="80" height="80" alt="Windows">
 </p>
 
-<!-- The Link of this logo is: https://cdn.worldvectorlogo.com -->
+<!-- The Link of this logo is: https://worldvectorlogo.com -->
 
 <!--
 **JolouTheRookie/JolouTheRookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
