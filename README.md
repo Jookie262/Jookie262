@@ -7,7 +7,7 @@
 
 ### **Hello Everyone** 👋💻🦄
 
-Hi, I'm 😊 Paul Jolou, A 🎓 student from Philippines who wants to learn and explore new 🕹 Technologies, believes that it is important to continue to grow and learn. I'm always looking for opportunities, like online courses, seminars, conference, and classes, that can help me learn and grow in my everyday life. I enjoy 🙆‍♂️ collaborating and help each other in times of needs. I am currently finding my way to fight against procastination.  
+Hi, I'm 😊 Paul Jolou, A 🎓 student from the Philippines who wants to learn and explore new 🕹 technologies, believes that it is important to continue to grow and learn. I'm always looking for opportunities, like online courses, seminars, conferences, and classes, that can help me learn and grow in my everyday life. I enjoy 🙆‍♂️ collaborating and help each other in times of need. I am currently finding my way to fight against procrastination.
 
 
 ### **Personal Skill Ratings**
