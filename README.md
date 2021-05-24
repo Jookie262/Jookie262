@@ -30,7 +30,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from the Philippines who wants to learn 
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="80" height="80" alt="HTML5">
 <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="80" height="80" alt="CSS3">
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="80" height="80" alt="Javascript">
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="80" height="80" alt="Javascript">
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="80" height="80" alt="Sass">
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="80" height="80" alt="Python">
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="80" height="80" alt="Bootstrap">
@@ -40,7 +40,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from the Philippines who wants to learn 
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="80" height="80" alt="Adobe XD">
 <img src="https://img.icons8.com/color/96/000000/firebase.png" width="80" height="80" alt="Firebase"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="80" height="80" alt="Git">
-<img src="https://cdn.worldvectorlogo.com/logos/github-1.svg" width="80" height="80" alt="Github">
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="80" height="80" alt="Github">
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="80" height="80" alt="Java">
 <img src="https://cdn.worldvectorlogo.com/logos/android.svg" width="80" height="80" alt="Android">
 <img src="https://i.ya-webdesign.com/images/android-studio-png.png" width="80" height="80" alt="Android Studio">
