@@ -32,6 +32,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from the Philippines who wants to learn 
 <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="80" height="80" alt="CSS3">
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="80" height="80" alt="Javascript">
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="80" height="80" alt="Sass">
+<img src="https://static.cdnlogo.com/logos/c/27/c.svg" width="80" height="80" alt="C#">
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="80" height="80" alt="Python">
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="80" height="80" alt="Bootstrap">
 <img src="https://cdn.worldvectorlogo.com/logos/jquery.svg" width="80" height="80" alt="JQuery">
@@ -48,6 +49,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from the Philippines who wants to learn 
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" width="80" height="80" alt="VS Code">
 <img src="https://cdn.worldvectorlogo.com/logos/chrome.svg" width="80" height="80" alt="Google Chrome">
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="80" height="80" alt="Windows">
+<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="80" height="80" alt="Ubuntu">
 </p>
 
 <!-- The Link of this logo is: https://worldvectorlogo.com -->
