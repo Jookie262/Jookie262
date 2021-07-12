@@ -29,7 +29,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from the Philippines who wants to learn 
 ### **Technologies that I've worked on**
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="80" height="80" alt="HTML5">
-<img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" width="80" height="80" alt="CSS3">
+<img src="https://img.icons8.com/color/100/000000/css3.png" width="80" height="80" alt="CSS3">
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="80" height="80" alt="Javascript">
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="80" height="80" alt="Sass">
 <img src="https://static.cdnlogo.com/logos/c/27/c.svg" width="80" height="80" alt="C#">
