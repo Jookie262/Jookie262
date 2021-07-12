@@ -29,7 +29,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from the Philippines who wants to learn 
 ### **Technologies that I've worked on**
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="80" height="80" alt="HTML5">
-<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width="80" height="80" alt="CSS3">
+<img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" width="80" height="80" alt="CSS3">
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="80" height="80" alt="Javascript">
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="80" height="80" alt="Sass">
 <img src="https://static.cdnlogo.com/logos/c/27/c.svg" width="80" height="80" alt="C#">
@@ -37,7 +37,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from the Philippines who wants to learn 
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="80" height="80" alt="Bootstrap">
 <img src="https://cdn.worldvectorlogo.com/logos/jquery.svg" width="80" height="80" alt="JQuery">
 <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" width="80" height="80" alt="Wordpress">
-<img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" width="80" height="80" alt="Adobe Photoshop">
+<img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" width="80" height="80" alt="Adobe Photoshop">
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="80" height="80" alt="Adobe XD">
 <img src="https://img.icons8.com/color/96/000000/firebase.png" width="80" height="80" alt="Firebase"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="80" height="80" alt="Git">
@@ -46,7 +46,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from the Philippines who wants to learn 
 <img src="https://cdn.worldvectorlogo.com/logos/android.svg" width="80" height="80" alt="Android">
 <img src="https://i.ya-webdesign.com/images/android-studio-png.png" width="80" height="80" alt="Android Studio">
 <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/18579954981556105328-512.png" width="80" height="80" alt="Notion">
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" width="80" height="80" alt="VS Code">
+<img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="80" height="80" alt="VS Code">
 <img src="https://cdn.worldvectorlogo.com/logos/chrome.svg" width="80" height="80" alt="Google Chrome">
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="80" height="80" alt="Windows">
 <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="80" height="80" alt="Ubuntu">
