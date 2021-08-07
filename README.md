@@ -26,7 +26,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from the Philippines who wants to learn 
     <img src="https://img.shields.io/badge/Adobe%20XD-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-FF26BE" />       
 </p>
 
-### **Technologies that I've worked on**
+### **Technologies that I've used**
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width="80" height="80" alt="HTML5">
 <img src="https://img.icons8.com/color/100/000000/css3.png" width="80" height="80" alt="CSS3">
