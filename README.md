@@ -1,10 +1,8 @@
 <!-- Credits to DenverCoder1 for a beautiful Readme (https://github.com/DenverCoder1/DenverCoder1) -->
-<p align="center">
- <img src="https://see.fontimg.com/api/renderfont4/GOJeq/eyJyIjoiZnMiLCJoIjozMywidyI6MTAwMCwiZnMiOjMzLCJmZ2MiOiIjRkZCMDQ0IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGVsbG8gV29ybGQ/tagalog-stylized.png">
-</p>
-
 <h3 align="center">
-    <b>Welcome to Jookie262's Github Profile</b>
+      <img src="https://see.fontimg.com/api/renderfont4/GOJeq/eyJyIjoiZnMiLCJoIjozNiwidyI6MTAwMCwiZnMiOjM2LCJmZ2MiOiIjRkRBNTJDIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGVsbG8gV29ybGQ/tagalog-stylized.png">
+    <br>
+    <b style="">Welcome to Jookie262's Github Profile</b>
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
 </h3>
 
