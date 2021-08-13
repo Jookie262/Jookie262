@@ -16,7 +16,7 @@
   <img alt="Information Technology" src="https://img.shields.io/badge/INFORMATION%20-TECHNOLOGY-BLUE?style=for-the-badge&color=236ad3&labelColor=1155ba"/></a>  
 </p>
 
-## 🎒 My Simple Personal Projects
+## 🎒 Simple Personal Projects
 
 <p align="left">
  <a href="https://github.com/Jookie262/Calculator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jookie262&repo=Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -24,11 +24,23 @@
  <a href="https://github.com/Jookie262/MemoryGame"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jookie262&repo=MemoryGame&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
 </p>
 
-## ✏️ Contributed Project
+<p align="left">
+ <a href="https://github.com/Jookie262?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo&color=C64F6C"/></a>
+</p>
+
+## ✏️ Contributed Projects
 
 <p align="left">
 <a href="https://github.com/Jookie262/MemoryGame"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tushartiwari7&repo=language-translator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
 <a href="https://github.com/Jookie262/MemoryGame"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pynata&repo=Pynata.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+</p>
+
+## 🔥 Streak stats
+<p align="center">
+ <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Jookie262&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 <!-- Bagdges 
