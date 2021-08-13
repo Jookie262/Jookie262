@@ -24,10 +24,6 @@
  <a href="https://github.com/Jookie262/MemoryGame"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jookie262&repo=MemoryGame&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
 </p>
 
-<p align="left">
- <a href="https://github.com/Jookie262?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo&color=C64F6C"/></a>
-</p>
-
 ## ✏️ Contributed Projects
 
 <p align="left">
@@ -80,7 +76,6 @@
 <p>
 <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white&style=for-the-badge">
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge">
-<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white&style=for-the-badge">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge">
 <img alt="Edge" src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white">
