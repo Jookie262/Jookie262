@@ -1,5 +1,10 @@
+<!-- Credits to DenverCoder1 for a beautiful Readme (https://github.com/DenverCoder1/DenverCoder1) -->
+<p align="center">
+ <img src="https://see.fontimg.com/api/renderfont4/GOJeq/eyJyIjoiZnMiLCJoIjozMywidyI6MTAwMCwiZnMiOjMzLCJmZ2MiOiIjRkZCMDQ0IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGVsbG8gV29ybGQ/tagalog-stylized.png">
+</p>
+
 <h3 align="center">
-    <b>Welcome to Jookie262 Github Profile</b>
+    <b>Welcome to Jookie262's Github Profile</b>
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
 </h3>
 
@@ -27,8 +32,8 @@
 ## ✏️ Contributed Projects
 
 <p align="left">
-<a href="https://github.com/Jookie262/MemoryGame"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tushartiwari7&repo=language-translator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
-<a href="https://github.com/Jookie262/MemoryGame"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pynata&repo=Pynata.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+ <a href="https://github.com/tushartiwari7/language-translatore"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tushartiwari7&repo=language-translator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+ <a href="hhttps://github.com/Pynata/Pynata.github.io"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pynata&repo=Pynata.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
 </p>
 
 ## 🔥 Streak stats
@@ -88,28 +93,15 @@
 
 ### 🐱‍💻 Github Profile Stats
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jookie262&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="48%" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jookie262&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="48%" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jookie262&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jookie262&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%" /></a>
 </p>
 
 ### ⚡ GitHub Activity
 <p>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jookie262&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
-<!-- Bagdges 
-https://img.shields.io/github/stars/Jookie262?style=for-the-badge&labelColor=488207&color=55960C
-Stars
 
-https://img.shields.io/github/followers/Jookie262?style=for-the-badge&color=7C007C&labelColor=640464
-Follower
-
-https://img.shields.io/badge/STI%20-ALUMNI-yellow?style=for-the-badge&labelColor=C79600&color=E1AD0E
-STI ALUMNI
-
-
-https://img.shields.io/badge/INFORMATION%20-TECHNOLOGY-BLUE?style=for-the-badge&color=236ad3&labelColor=1155ba
-Information Technology 
--->
 <!-- <h2><b>Rookie Developer Here</b>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
