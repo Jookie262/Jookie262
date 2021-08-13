@@ -1,4 +1,51 @@
-<h2><b>Rookie Developer Here</b>
+<h3 align="center">
+    <b>Welcome to Jookie262 Github Profile</b>
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFC83D&center=true&vCenter=true&width=380&height=45&lines=Rookie+Developer+Here!;Self+Taught+Coderist;Wants+to+Collaborate+with+Others;Always+Learning+New+Things">
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Stars" src="https://img.shields.io/github/stars/Jookie262?style=for-the-badge&labelColor=488207&color=55960C"/></a>
+  <img alt="Followers" src="https://img.shields.io/github/followers/Jookie262?style=for-the-badge&color=7C007C&labelColor=640464"/></a>  
+  <img alt="STI Alumni" src="https://img.shields.io/badge/STI%20-ALUMNI-yellow?style=for-the-badge&labelColor=C79600&color=E1AD0E"/></a>  
+  <img alt="Information Technology" src="https://img.shields.io/badge/INFORMATION%20-TECHNOLOGY-BLUE?style=for-the-badge&color=236ad3&labelColor=1155ba"/></a>  
+</p>
+
+## 🎒 My Simple Personal Projects
+
+<p align="left">
+ <a href="https://github.com/Jookie262/Calculator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jookie262&repo=Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/Jookie262/ColorFlipper"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jookie262&repo=ColorFlipper&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/Jookie262/MemoryGame"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jookie262&repo=MemoryGame&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+</p>
+
+## ✏️ Contributed Project
+
+<p align="left">
+<a href="https://github.com/Jookie262/MemoryGame"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tushartiwari7&repo=language-translator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+<a href="https://github.com/Jookie262/MemoryGame"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pynata&repo=Pynata.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+</p>
+
+<!-- Bagdges 
+https://img.shields.io/github/stars/Jookie262?style=for-the-badge&labelColor=488207&color=55960C
+Stars
+
+https://img.shields.io/github/followers/Jookie262?style=for-the-badge&color=7C007C&labelColor=640464
+Follower
+
+https://img.shields.io/badge/STI%20-ALUMNI-yellow?style=for-the-badge&labelColor=C79600&color=E1AD0E
+STI ALUMNI
+
+
+https://img.shields.io/badge/INFORMATION%20-TECHNOLOGY-BLUE?style=for-the-badge&color=236ad3&labelColor=1155ba
+Information Technology 
+-->
+<!-- <h2><b>Rookie Developer Here</b>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
@@ -50,7 +97,7 @@ Hi, I'm 😊 Paul Jolou, A 🎓 student from the Philippines who wants to learn 
 <img src="https://cdn.worldvectorlogo.com/logos/chrome.svg" width="80" height="80" alt="Google Chrome">
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="80" height="80" alt="Windows">
 <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="80" height="80" alt="Ubuntu">
-</p>
+</p> -->
 
 <!-- The Link of this logo is: https://worldvectorlogo.com -->
 
