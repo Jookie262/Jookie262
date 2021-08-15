@@ -30,8 +30,8 @@
 ## ✏️ Contributed Projects
 
 <p align="left">
- <a href="https://github.com/tushartiwari7/language-translatore"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tushartiwari7&repo=language-translator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
- <a href="hhttps://github.com/Pynata/Pynata.github.io"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pynata&repo=Pynata.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+ <a href="https://github.com/tushartiwari7/language-translator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tushartiwari7&repo=language-translator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+ <a href="https://github.com/Pynata/Pynata.github.io"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pynata&repo=Pynata.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
 </p>
 
 ## 🔥 Streak stats
@@ -85,6 +85,13 @@
 <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366">
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+### Operating Systems
+<p>
+ <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+ <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+ <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
 
 ## 📊 Github Stats
