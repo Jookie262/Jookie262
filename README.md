@@ -17,7 +17,7 @@
   <img alt="Followers" src="https://img.shields.io/github/followers/Jookie262?style=for-the-badge&color=7C007C&labelColor=640464"/>
   <img alt="STI Alumni" src="https://img.shields.io/badge/STI%20-ALUMNI-yellow?style=for-the-badge&labelColor=C79600&color=E1AD0E"/>
   <img alt="Information Technology" src="https://img.shields.io/badge/INFORMATION%20-TECHNOLOGY-BLUE?style=for-the-badge&color=236ad3&labelColor=1155ba"/>
-  <a href="https://dribbble.com/Yolo_Designer">
+  <a href="https://dribbble.com/Yolo_Designer" target="_blank">
    <img alt="Dribble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>  
   </a>  
 </p>
@@ -25,21 +25,21 @@
 ## 🎒 Simple Personal Projects
 
 <p align="left">
- <a href="https://github.com/Jookie262/Calculator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jookie262&repo=Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
- <a href="https://github.com/Jookie262/ColorFlipper"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jookie262&repo=ColorFlipper&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
- <a href="https://github.com/Jookie262/MemoryGame"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jookie262&repo=MemoryGame&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+ <a href="https://github.com/Jookie262/Calculator" target="_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jookie262&repo=Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/Jookie262/ColorFlipper" target="_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jookie262&repo=ColorFlipper&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/Jookie262/MemoryGame" target="_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jookie262&repo=MemoryGame&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
 </p>
 
 ## ✏️ Contributed Projects
 
 <p align="left">
- <a href="https://github.com/tushartiwari7/language-translator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tushartiwari7&repo=language-translator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
- <a href="https://github.com/Pynata/Pynata.github.io"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pynata&repo=Pynata.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+ <a href="https://github.com/tushartiwari7/language-translator" target="_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tushartiwari7&repo=language-translator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+ <a href="https://github.com/Pynata/Pynata.github.io" target="_blank"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pynata&repo=Pynata.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
 </p>
 
 ## 🔥 Streak stats
 <p align="center">
- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+ <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Jookie262&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
@@ -101,13 +101,13 @@
 
 ### 🐱‍💻 Github Profile Stats
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jookie262&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jookie262&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jookie262&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%" /></a>
 </p>
 
 ### ⚡ GitHub Activity
 <p>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jookie262&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jookie262&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 <!-- <h2><b>Rookie Developer Here</b>
