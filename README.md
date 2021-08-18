@@ -13,10 +13,13 @@
 </p>
 
 <p align="center">
-  <img alt="Stars" src="https://img.shields.io/github/stars/Jookie262?style=for-the-badge&labelColor=488207&color=55960C"/></a>
-  <img alt="Followers" src="https://img.shields.io/github/followers/Jookie262?style=for-the-badge&color=7C007C&labelColor=640464"/></a>  
-  <img alt="STI Alumni" src="https://img.shields.io/badge/STI%20-ALUMNI-yellow?style=for-the-badge&labelColor=C79600&color=E1AD0E"/></a>  
-  <img alt="Information Technology" src="https://img.shields.io/badge/INFORMATION%20-TECHNOLOGY-BLUE?style=for-the-badge&color=236ad3&labelColor=1155ba"/></a>  
+  <img alt="Stars" src="https://img.shields.io/github/stars/Jookie262?style=for-the-badge&labelColor=488207&color=55960C"/>
+  <img alt="Followers" src="https://img.shields.io/github/followers/Jookie262?style=for-the-badge&color=7C007C&labelColor=640464"/>
+  <img alt="STI Alumni" src="https://img.shields.io/badge/STI%20-ALUMNI-yellow?style=for-the-badge&labelColor=C79600&color=E1AD0E"/>
+  <img alt="Information Technology" src="https://img.shields.io/badge/INFORMATION%20-TECHNOLOGY-BLUE?style=for-the-badge&color=236ad3&labelColor=1155ba"/>
+  <a href="https://dribbble.com/Yolo_Designer">
+   <img alt="Dribble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>  
+  </a>  
 </p>
 
 ## 🎒 Simple Personal Projects
