@@ -68,9 +68,7 @@
 
 <p>
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=for-the-badge">
-<img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white&style=for-the-badge">
 <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white&style=for-the-badge">
-<img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white&style=for-the-badge">
 <img alt="Firebase" src ="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
 </p>
 
