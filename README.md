@@ -1,9 +1,9 @@
 <!-- Credits to DenverCoder1 for a beautiful Readme (https://github.com/DenverCoder1/DenverCoder1) -->
 <h3 align="center">
-      <img src="https://i.ibb.co/wB6wjtN/baybayingrey.png">
-    <br>
-    <b style="">Welcome to Jookie262's Github Profile</b>
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
+    <b style="font-size: 5.5vh; color: white; letter-spacing: 2px">Welcome To My Github Profile</b>
+    <p align="center">
+      <a href="https://www.codewars.com/users/Jookie262"> <img src="https://www.codewars.com/users/Jookie262/badges/large"> </a>
+    </p>
 </h3>
 
 <p align="center">
@@ -11,6 +11,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFC83D&center=true&vCenter=true&width=380&height=45&lines=Rookie+Developer+Here!;Self+Taught+Coderist;Wants+to+Collaborate+with+Others;Always+Learning+New+Things">
   </a>
 </p>
+
+
 
 <p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/Jookie262?style=for-the-badge&labelColor=488207&color=55960C"/>
@@ -21,6 +23,7 @@
    <img alt="Dribble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>  
   </a>  
 </p>
+
 
 ## 🎒 Simple Personal Projects
 
