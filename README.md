@@ -57,7 +57,7 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white&style=for-the-badge">
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&color=red">
 </p>
 
 ### 📚 Frameworks and Libraries
