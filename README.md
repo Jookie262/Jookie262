@@ -38,6 +38,7 @@
 <p align="left">
  <a href="https://github.com/tushartiwari7/language-translator" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tushartiwari7&repo=language-translator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
  <a href="https://github.com/Pynata/Pynata.github.io" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Pynata&repo=Pynata.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+ <a href="https://github.com/Coding4Buddies/BatShooter" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Coding4Buddies&repo=BatShooter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
 </p>
 
 ## 🔥 Streak stats
