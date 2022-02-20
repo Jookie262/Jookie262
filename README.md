@@ -24,6 +24,10 @@
   </a>  
 </p>
 
+<h3 align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jookie262&row=1&margin-w=10&&margin-h=40&theme=juicyfresh">
+</h3>
+
 
 ## 🎒 Simple Personal Projects
 
