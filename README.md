@@ -109,6 +109,13 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank"><img alt="Jookie262's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jookie262&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 
+### 🎵 Music
+<p align="center">
+   <img src="https://c.tenor.com/gMuM-NDDdyYAAAAM/milk-mocha.gif">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qwu3uh4bzvk3vox6c4bczhqova&cover_image=true&theme=default" alt="spotify-github-profile" size="50px">
+   <img src="https://c.tenor.com/gMuM-NDDdyYAAAAM/milk-mocha.gif">
+</p>   
+   
 <!-- <h2><b>Rookie Developer Here</b>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
