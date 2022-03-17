@@ -112,6 +112,6 @@
 ## 🎵 Spotify Music
 <p align="center">
    <img src="https://c.tenor.com/gMuM-NDDdyYAAAAM/milk-mocha.gif">
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qwu3uh4bzvk3vox6c4bczhqova&cover_image=true&theme=default" alt="spotify-github-profile" width="290px">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qwu3uh4bzvk3vox6c4bczhqova&cover_image=true&theme=default&bar_color_cover=true" alt="spotify-github-profile" width="290px">
    <img src="https://c.tenor.com/gMuM-NDDdyYAAAAM/milk-mocha.gif">
 </p>   
