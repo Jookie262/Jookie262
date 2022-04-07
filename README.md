@@ -100,8 +100,8 @@
 
 ### 🐱‍💻 Github Profile Stats
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="Jookie's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jookie262&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jookie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jookie262&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img alt="Jookie's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jookie262&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jookie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jookie262&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 </p>
 
 ### ⚡ GitHub Activity
