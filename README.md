@@ -109,7 +109,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank"><img alt="Jookie262's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jookie262&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
     
-## 🟢 Spotify Music 
+## 🥬 Spotify Music 
 <p align="center"> 
    <img src="https://spotify-github-profile.vercel.app/api/view?uid=316nyfbeaqo4axckbg6ssa6nstvi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" width="29%">
    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316nyfbeaqo4axckbg6ssa6nstvi" width="50%">
