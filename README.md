@@ -111,6 +111,6 @@
     
 ### 🟢 Spotify Music 
 <p align="center"> 
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=316nyfbeaqo4axckbg6ssa6nstvi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" width="29%">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=316nyfbeaqo4axckbg6ssa6nstvi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" width="29%">
    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316nyfbeaqo4axckbg6ssa6nstvi" width="50%">
 </p>
