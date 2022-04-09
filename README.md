@@ -62,6 +62,7 @@
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&color=red">
+    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 </p>
 
 ### 📚 Frameworks and Libraries
