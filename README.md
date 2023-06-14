@@ -113,7 +113,7 @@
 
 ### ⚡ GitHub Activity
 <p>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank"><img alt="Jookie262's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Jookie262&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank"><img alt="Jookie262's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Jookie262&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
     
 ## 🥬 Spotify Music 
